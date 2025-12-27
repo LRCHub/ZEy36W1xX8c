@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "メルティランドナイトメア",
+  "base_artist": "はるまきごはん",
+  "createdAt": "2025-12-27T20:46:21.126813Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "メルティランドナイトメア",
+      "artist": "宮下 遊",
+      "has_synced": true,
+      "path": "select/01_メルティランドナイトメア_宮下_遊.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "メルティランドナイトメア",
+      "artist": "MORE MORE JUMP! feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク",
+      "has_synced": true,
+      "path": "select/02_メルティランドナイトメア_MORE_MORE_JUMP!_feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "メルティランドナイトメア",
+      "artist": "Harumakigohan",
+      "has_synced": true,
+      "path": "select/03_メルティランドナイトメア_Harumakigohan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "メルティランドナイトメア",
+      "artist": "Harumaki Gohan",
+      "has_synced": true,
+      "path": "select/04_メルティランドナイトメア_Harumaki_Gohan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "メルティランドナイトメア",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/05_メルティランドナイトメア_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "メルティランドナイトメア (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/06_メルティランドナイトメア_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "メルティランドナイトメア",
+      "artist": "初音ミク/はるまきごはん",
+      "has_synced": true,
+      "path": "select/07_メルティランドナイトメア_初音ミク_はるまきごはん.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "メルティランドナイトメア",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": false,
+      "path": "select/08_メルティランドナイトメア_MORE_MORE_JUMP!.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "メルティランドナイトメア",
+      "artist": "はるまきごはん",
+      "has_synced": true,
+      "path": "select/09_メルティランドナイトメア_はるまきごはん.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "メルティランドナイトメア",
+      "artist": "Harumaki, Gohan",
+      "has_synced": true,
+      "path": "select/10_メルティランドナイトメア_Harumaki,_Gohan.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "メルティランドナイトメア",
+      "artist": "はるまきごはん feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/11_メルティランドナイトメア_はるまきごはん_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "メルティランドナイトメア (feat. 花里みのり & 桐谷遥 & 桃井愛莉 &...",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/12_メルティランドナイトメア_(feat._花里みのり_&_桐谷遥_&_桃井愛莉_&..._MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "メルティランドナイトメア",
+      "artist": "はるまきごはん",
+      "has_synced": true,
+      "path": "select/13_メルティランドナイトメア_はるまきごはん.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "メルティランドナイトメア",
+      "artist": "MORE MORE JUMP! feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&Hatsune Miku",
+      "has_synced": true,
+      "path": "select/14_メルティランドナイトメア_MORE_MORE_JUMP!_feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "メルティランドナイトメア",
+      "artist": "Harumaki Gohan",
+      "has_synced": true,
+      "path": "select/15_メルティランドナイトメア_Harumaki_Gohan.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "メルティランドナイトメア (feat. Hanasato Minori & Kiritani Haruka & Momoi Airi & Hinomori Shizuku & Hatsune Miku)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/16_メルティランドナイトメア_(feat._Hanasato_Minori_&_Kiritani_Haruka_&_Momoi_Airi_&_Hinomori_Sh_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "メルティランドナイトメア",
+      "artist": "MORE MORE JUMP! (小倉唯, 吉岡茉祐, 降幡愛, 本泉莉奈)",
+      "has_synced": false,
+      "path": "select/17_メルティランドナイトメア_MORE_MORE_JUMP!_(小倉唯,_吉岡茉祐,_降幡愛,_本泉莉奈).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "メルティランドナイトメア",
+      "artist": "はるまきごはん",
+      "has_synced": false,
+      "path": "select/pl_01_メルティランドナイトメア_はるまきごはん.txt"
+    }
+  ]
+}
