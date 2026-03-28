@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "メルティランドナイトメア（feat. 初音ミク）",
   "base_artist": "はるまきごはん",
-  "createdAt": "2026-02-13T14:59:54.427994Z",
+  "createdAt": "2026-03-28T13:39:42.476162Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -27,6 +27,14 @@
       "artist": "MORE MORE JUMP!",
       "has_synced": true,
       "path": "select/03_メルティランドナイトメア_(feat._Hanasato_Minori_&_Kiritani_Haruka_&_Momoi_Airi_&_Hinomori_Sh_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "﻿メルティランドナイトメア (feat. 花里みのり & 桐谷遥 & 桃井愛莉 &...",
+      "artist": "﻿MORE MORE JUMP! - Topic",
+      "has_synced": true,
+      "path": "select/04_﻿メルティランドナイトメア_(feat._花里みのり_&_桐谷遥_&_桃井愛莉_&..._﻿MORE_MORE_JUMP!_-_Topic.lrc"
     },
     {
       "id": "petitlyrics_1",
